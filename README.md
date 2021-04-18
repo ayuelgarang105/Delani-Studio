@@ -1,22 +1,11 @@
 ## [Delani-Studio]
 #### {A virtual Studio to show the use of JQUERY }, {02/10/2020}
-#### By **{BENARD AKAKA}**
+#### By **GABRIEL AYUEL**
 ## Description
-## Demo
-Here is a working live demo :https://github.com/Benardakaka/Delani-Studio
-gkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature.`)
-- Create a Pull Request 
-
-*This is a detailed description of My application, including m purpose and usage.
+*This is imitation of Delani Studio 
 ## Setup/Installation Requirements
 * This is a great place to be
 * Run today and walk tomorrow
-## Known Bugs
-
 ## Behavior Driven Development
 <table>
     <tr>
@@ -31,8 +20,8 @@ gkout -b improve-feature`)
     </tr> 
     <tr>
         <td>Enter your name if you want to leave a message</td>
-        <td>['BENARD']</td>
-        <td>name = 'BENARDAKAKA'</td>
+        <td>['GABRIEL']</td>
+        <td>name = 'GABRIEL AYUEL'</td>
     </tr>
     <tr>
         <td>Enter Email && Message</td>
@@ -53,7 +42,7 @@ gkout -b improve-feature`)
 * JAVASCRIPT
 
 ## Support and contact details
-* CONTACTS:+254746225871;
+* CONTACTS:+254748;
 * benardakaka484gmail.com
 ### License
 * {MIT License "https://github.com/Benardakaka?tab=repositories"
