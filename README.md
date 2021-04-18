@@ -42,7 +42,7 @@
 * JAVASCRIPT
 
 ## Support and contact details
-* CONTACTS:+254748;
+* CONTACTS:+254748123238;
 * benardakaka484gmail.com
 ### License
 * {MIT License "https://github.com/Benardakaka?tab=repositories"
