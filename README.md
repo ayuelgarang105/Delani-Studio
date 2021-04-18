@@ -1,5 +1,5 @@
 ## [Delani-Studio]
-#### {A virtual Studio to show the use of JQUERY }, {02/10/2020}
+#### {A virtual Studio to show the use of JQUERY }, {18/04/2021}
 #### By **GABRIEL AYUEL**
 ## Description
 *This is imitation of Delani Studio 
