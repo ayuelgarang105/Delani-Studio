@@ -47,7 +47,7 @@
 ### License
 * {MIT License "https://github.com/ayuelgarang105?tab=repositories"
 
-Copyright (c) [2020] [Benard Akaka]
+Copyright (c) [2020] [Gabriel Ayuel]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
