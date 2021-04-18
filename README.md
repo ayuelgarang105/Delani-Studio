@@ -43,9 +43,9 @@
 
 ## Support and contact details
 * CONTACTS:+254748123238;
-* benardakaka484gmail.com
+* ayuelgarang105gmail.com
 ### License
-* {MIT License "https://github.com/Benardakaka?tab=repositories"
+* {MIT License "https://github.com/ayuelgarang105?tab=repositories"
 
 Copyright (c) [2020] [Benard Akaka]
 
